@@ -1,0 +1,50 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+input {
+  width: 20em;
+  height: 2em;
+  padding: 1rem;
+  text-align: center;
+  margin: 1rem;
+  color: black;
+  font-size: 110%;
+}
+body {
+  background-color: #1f2937;
+  text-align: center;
+}
+
+.heading {
+  color: white;
+  font-size: 130%;
+}
+
+.inputText {
+  color: black;
+  font-size: 110%;
+}
+
+.output {
+  border: 0.1rem solid white;
+  border-radius: 0.5rem;
+  box-shadow: 0.5em;
+  padding: 1.6rem 1rem;
+  margin: 3rem auto;
+  width: 30%;
+  height: 60%;
+  color: white;
+  font-family: "Kalam", cursive;
+  font-size: 110%;
+}
+
+.emoji {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  width: 50%;
+  margin: auto;
+}
